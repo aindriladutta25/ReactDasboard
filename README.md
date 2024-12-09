@@ -16,7 +16,7 @@ Access the live version of the dashboard here:
 ### Dashboard Overview  
 ![Dashboard Overview](public/screenshots/dashboard1.png)
 
-!(public/screenshots/dashboard2.png)
+(public/screenshots/dashboard2.png)
 
 ### Order Management  
 ![User Management Page](public/screenshots/order_list.png)
