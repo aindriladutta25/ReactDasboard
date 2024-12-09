@@ -159,7 +159,7 @@ export default function Sidebar() {
      </List>
         <List>
         <Typography sx={{ minWidth: 100, p:2}}>Dashboards</Typography>
-        <Link to="/">
+        <Link to="/order_list">
           <ListItem>
             <ListItemIcon>
               < KeyboardArrowRightOutLinedIcon/> 
@@ -169,7 +169,6 @@ export default function Sidebar() {
           
           </ListItem>
           </Link>
-          <Link to="/order_list">
           <ListItem>
             <ListItemIcon>
             < KeyboardArrowRightOutLinedIcon/>
@@ -177,7 +176,6 @@ export default function Sidebar() {
             </ListItemIcon>
             <ListItemText>eCommerce</ListItemText>
           </ListItem>
-          </Link>
           <ListItem>
             
             <ListItemIcon>

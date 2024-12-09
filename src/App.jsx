@@ -22,7 +22,7 @@ function App() {
             <main className="content">
               <Topbar/>
               <Routes>
-                <Route path="/" element={<Dashboard/>}/>
+                <Route path="/ReactDasboard/" element={<Dashboard/>}/>
                 <Route path="/order_list" element={<Team/>}/>
               </Routes>
             </main>
