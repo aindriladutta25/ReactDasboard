@@ -14,9 +14,9 @@ Access the live version of the dashboard here:
 ## 📸 Screenshots  
 
 ### Dashboard Overview  
-![Dashboard Overview](public/screenshots/dashboard1.png)
+![Dashboard Overview Page 1](public/screenshots/dashboard1.png)
 
-(public/screenshots/dashboard2.png)
+![Dashboard Overview Page 2](public/screenshots/dashboard2.png)
 
 ### Order Management  
 ![User Management Page](public/screenshots/order_list.png)
@@ -78,6 +78,7 @@ This repository is for the development of a dashboard page. The goal is to creat
 Below is the planned design for the web page:  
 
 ![Planned Design](public/screenshots/Screenshot-1.png)  
+
 
 
 # React + Vite
