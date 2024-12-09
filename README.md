@@ -7,7 +7,7 @@ Welcome to the **React Dashboard Page** repository! This project showcases a res
 
 ## 🖥️ Live Demo  
 Access the live version of the dashboard here:  
-🔗 **[React Dashboard - GitHub Pages](https://aindriladutta25.github.io/ReactDashboard/)**
+🔗 **[React Dashboard - GitHub Pages](https://aindriladutta25.github.io/ReactDasboard/)**
 
 ---
 
