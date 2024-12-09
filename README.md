@@ -14,7 +14,7 @@ Access the live version of the dashboard here:
 ## 📸 Screenshots  
 
 ### Dashboard Overview  
-![Dashboard Overview Page 1](public/screenshots/dashboard1.png)
+![Dashboard Overview Page 1](public/screenshots/dasboard1.png)
 
 ![Dashboard Overview Page 2](public/screenshots/dashboard2.png)
 
